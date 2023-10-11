@@ -17,11 +17,9 @@ Danny has shared with you 3 key datasets for this case study:
 2. menu
 3. members
 You can inspect the entity relationship diagram and example data below.
+
 ## Entity Relationship Diagram
 ![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/ae737e2a-410a-4b1c-ad20-5de1130c890d)
-
-## Example Datasets
-All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
 ## Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
