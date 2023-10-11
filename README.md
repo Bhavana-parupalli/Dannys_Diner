@@ -24,23 +24,7 @@ All datasets exist within the dannys_diner database schema - be sure to include 
 
 ## Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
-
-**customer_id**	   **order_date**	  **product_id**
-A	             2021-01-01	      1
-A	             2021-01-01	      2
-A	             2021-01-07	      2
-A	             2021-01-10	      3
-A	             2021-01-11	      3
-A	             2021-01-11     	3
-B	             2021-01-01	      2
-B              2021-01-02	      2
-B	             2021-01-04	      1
-B	             2021-01-11     	1
-B	             2021-01-16	      3
-B	             2021-02-01	      3
-C	             2021-01-01     	3
-C	             2021-01-01	      3
-C              2021-01-07	      3
+![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/3ca8ecbe-bc8b-4072-8f57-7fe15d0a538a)
 
 ## Table 2: menu
 The menu table maps the product_id to the actual product_name and price of each menu item.
