@@ -18,28 +18,25 @@ Danny has shared with you 3 key datasets for this case study:
 3. members
 You can inspect the entity relationship diagram and example data below.
 ## Entity Relationship Diagram
-![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/ac4e095a-7d8a-49e7-a5d5-914a84021ae6)
+![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/cda6b180-0be3-4591-bddc-a148059a653a)
+
 ## Example Datasets
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
 ## Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
 ![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/3ca8ecbe-bc8b-4072-8f57-7fe15d0a538a)
 
 ## Table 2: menu
 The menu table maps the product_id to the actual product_name and price of each menu item.
 
-**product_id	**** product_name**	  **price**
-1	             sushi	       10
-2	             curry	       15
-3	             ramen	       12
+![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/f668e4d8-6801-4e4a-9789-b9d34a37cfe9)
 
 ## Table 3: members
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
-**customer_id**	  **join_date**
-A	            2021-01-07
-B	            2021-01-09
+![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/37a817b6-6068-4160-abfc-b2e2d320c151)
 
 
 
