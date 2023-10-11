@@ -16,7 +16,6 @@ Danny has shared with you 3 key datasets for this case study:
 1. sales
 2. menu
 3. members
-You can inspect the entity relationship diagram and example data below.
 
 ## Entity Relationship Diagram
 ![image](https://github.com/Bhavana-parupalli/Dannys_Diner/assets/97061048/ae737e2a-410a-4b1c-ad20-5de1130c890d)
